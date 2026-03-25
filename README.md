@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Deekshith 👋
 
-<!--
-**deekshith-exe/deekshith-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student  
+💻 Focused on Embedded Systems, Cybersecurity & Communication  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Core Interests
+- 🔐 Embedded Systems + Security  
+- 🌐 IoT + Cybersecurity  
+- 📡 Communication + Network Security  
+
+---
+
+## 🚀 Current Goal
+Building practical and secure engineering projects combining hardware and cybersecurity.
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- C / Python  
+- Basic Networking  
+- Linux Fundamentals  
+- Electronics & Communication Basics  
+
+---
+
+## 📌 Projects
+- My Learning Journey (GitHub setup)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/deekshith-m-g)
