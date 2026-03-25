@@ -2,6 +2,7 @@
 
 🎓 Electronics & Communication Engineering Student  
 💻 Focused on Embedded Systems, Cybersecurity & Communication  
+🚀 Actively building projects in Embedded Systems + Security
 
 ---
 
